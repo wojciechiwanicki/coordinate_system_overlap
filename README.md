@@ -1,5 +1,5 @@
 # coordinate_system_overlap
-Calculating max overlapping ranges on axis with JS
+Calculating max overlapping ranges on axis with JS (complexity O(nlogn))
 
 
 input scheme is as follows:
